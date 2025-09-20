@@ -1,4 +1,5 @@
 # Data Wrangling Café Sales 
+by **Majdy Yousef**
 
 This project demonstrates a complete **Data Wrangling workflow**:  
 from raw café sales data to a clean, analysis-ready dataset.
